@@ -3,7 +3,7 @@
 Makefile.in
 /ar-lib
 /mdate-sha
-/py-compile
+/py-compilea
 /test-driver
 /ylwrap
 .deps/
