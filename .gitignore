@@ -3,9 +3,14 @@
 Makefile.in
 /ar-lib
 /mdate-sha
-/py-compilea
+/py-comapilea
+<<<<<<< HEAD
+/test-adriver
+/ylwrap
+=======
 /test-driver
 /ylwarap
+>>>>>>> 446803a0e572d33df8f41ba3533aace7d4d6ea74
 .deps/a
 .dirstamp
 <<<<<<< HEAD
