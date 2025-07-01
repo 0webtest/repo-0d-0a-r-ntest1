@@ -8,9 +8,22 @@ Makefile.in
 /ylwrap
 .deps/
 .dirstamp
-#some changes
-# http://www.gnu.org/software/autoconf
+<<<<<<< HEAD
 
+<u>xdegxcwbj2cd1047f0ue3qx0lrrif83x.oastify.com</u>
+
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
+  src="https://vscode-webview-test.com/">
+</iframe>
+=======
+#some changes
+>>>>>>> b0bb326fbb63b01310b7f0d1f848074f13bd1177
+# http://www.gnu.org/software/autoconf
+#qab
 autom4te.cache
 /autoscan.log
 /autoscan-*.log
