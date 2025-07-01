@@ -8,7 +8,7 @@ Makefile.in
 /ylwrap
 .deps/
 .dirstamp
-
+#some changes
 # http://www.gnu.org/software/autoconf
 
 autom4te.cache
