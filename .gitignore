@@ -17,13 +17,22 @@ Makefile.in
   title="Inline Frame Example"
   width="300"
   height="200"
+  src="https://<span class="mtk1 detected-link">
+  <iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
   src="https://vscode-webview-test.com/">
 </iframe>
+</span>
+">
+</iframe>
 =======
-#some changes
+#some changesss
 >>>>>>> b0bb326fbb63b01310b7f0d1f848074f13bd1177
 # http://www.gnu.org/software/autoconf
-#qab
+#qabyu
 autom4te.cache
 /autoscan.log
 /autoscan-*.log
