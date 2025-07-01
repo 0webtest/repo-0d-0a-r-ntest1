@@ -2,7 +2,7 @@
 #test
 Makefile.in
 /ar-lib
-/mdate-sh
+/mdate-sha
 /py-compile
 /test-driver
 /ylwrap
